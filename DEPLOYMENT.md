@@ -1,10 +1,10 @@
-# Triquera Trust Website Deployment
+# Triquetra Trust Website Deployment
 
 ## Deployment Date
 March 23, 2026
 
 ## Overview
-The Triquera Digital Status and Asset Trust website has been successfully deployed using the iPortfolio Bootstrap template, customized to reflect the trust's structure, services, and operations.
+The Triquetra Digital Status and Asset Trust website has been successfully deployed using the iPortfolio Bootstrap template, customized to reflect the trust's structure, services, and operations.
 
 ## Website Location
 - **Installation Path**: `/home/luna/triquetratrust/www/`
@@ -18,7 +18,7 @@ The Triquera Digital Status and Asset Trust website has been successfully deploy
 ### Customized Sections
 
 #### 1. Header & Navigation
-- **Logo**: Triquera Trust
+- **Logo**: Triquetra Trust
 - **Navigation Menu**:
   - Home
   - About Trust
@@ -27,7 +27,7 @@ The Triquera Digital Status and Asset Trust website has been successfully deploy
   - Contact
 
 #### 2. Hero Section
-- Title: "Triquera Trust"
+- Title: "Triquetra Trust"
 - Tagline: Rotating keywords (Digital Identity, Asset Management, Family Banking, Status Verification)
 
 #### 3. About Section
@@ -138,7 +138,7 @@ The Triquera Digital Status and Asset Trust website has been successfully deploy
 
 ### Content Customization
 All template content has been replaced to reflect:
-- Triquera Trust branding
+- Triquetra Trust branding
 - Digital Status and Asset Trust purpose
 - Self-sovereign identity infrastructure
 - Asset tokenization capabilities
@@ -236,7 +236,7 @@ The contact form requires PHP mail configuration:
 
 ## Notes
 
-- All content is customized for Triquera Trust
+- All content is customized for Triquetra Trust
 - The site is designed to be a landing page and information portal
 - Complete implementation requires backend services for:
   - SSI/DID management
